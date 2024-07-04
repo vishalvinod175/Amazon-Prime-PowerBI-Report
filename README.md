@@ -2,9 +2,8 @@
 
 
 
-
-
-    ![2024-06-09 (1)](https://github.com/viskypapi/Amazon-Prime-PowerBI-Report/assets/164670302/02c1ceeb-fb6d-41ef-8adf-2c357a269929)    
+![2024-06-09 (1)](https://github.com/vishalvinod175/Amazon-Prime-PowerBI-Report/assets/164670302/d0f79e0e-b6ee-4a5f-a650-e0713fd75eca)
+   
 
 
 
@@ -28,10 +27,10 @@ Aim - To create a Dashboard to display the statistics of the Amazon Prime Viewer
 14) Insert an Area Chart depicting the growth of Movies and TV Shows over the years from 1920 and 2021,  Movies are in the colour Blue(#41A4FF) and TV shows are in a lighter blue (#70bbff)
 15) Insert the Amazon Prime logo
 16) Disclaimer- You can do this report using your own ideas and visualizations as well, Thank You.
-17) Final Result -
 
 
 
-    ![2024-06-09 (1)](https://github.com/viskypapi/Amazon-Prime-PowerBI-Report/assets/164670302/02c1ceeb-fb6d-41ef-8adf-2c357a269929)
+
+
 
 
