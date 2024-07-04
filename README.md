@@ -1,5 +1,15 @@
 # Amazon-Prime-PowerBI-Report
 
+
+
+
+
+    ![2024-06-09 (1)](https://github.com/viskypapi/Amazon-Prime-PowerBI-Report/assets/164670302/02c1ceeb-fb6d-41ef-8adf-2c357a269929)    
+
+
+
+
+    
 Aim - To create a Dashboard to display the statistics of the Amazon Prime Viewership across it's movies and TV shows, globally
 
 1) Load the Data from the given .csv Files.
